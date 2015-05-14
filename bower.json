@@ -1,0 +1,16 @@
+{
+  "name": "hf-dom",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hushicai/hf-dom",
+  "authors": [
+    "hushicai <bluthcy@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
